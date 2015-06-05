@@ -1,0 +1,10 @@
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\bin\Debug\TestBA.exe.config
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.csprojResolveAssemblyReference.cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.Form1.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.Properties.Resources.resources
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.csproj.GenerateResource.Cache
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\bin\Debug\TestBA.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\bin\Debug\TestBA.pdb
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.exe
+c:\users\bammouri\documents\visual studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.pdb
+C:\Users\bammouri\Documents\Visual Studio 2013\Projects\TestBA\TestBA\obj\Debug\TestBA.Timer.resources
